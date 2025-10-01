@@ -1,5 +1,5 @@
-# RISC-V_Single_Cycle_CPU
-RISC-V Single Cycle CPU Design &amp; Simulation & Bubble Sort Execution
+# RISC-V Single Cycle CPU Core
+RISC-V Single Cycle CPU Core Design &amp; Simulation & Bubble Sort Execution
 
 ### Project Overview
 

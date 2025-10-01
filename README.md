@@ -66,7 +66,7 @@ Implement basic operational flows of the CPU pipeline in a single cycle:
 - Solved with a case statement-based MUX design
 - Misalignment is designed to be ignored in accordance with RISC-V specification
 2. **Clocks Timing Analysis**
-- Critical Path: Load Instruction 경로
+- Critical Path: Load Instruction
 - Due to the nature of the single cycle structure, all operations must operate on the longest path (T_clk)
 - Verify inefficient clock usage → Recognize structural limitations
 

@@ -88,7 +88,7 @@ Implement basic operational flows of the CPU pipeline in a single cycle:
 
 ---
 
-### Your role
+### My role
 
 - Dedicated to designing and implementing CPU architecture
 - Build a Command Set Simulation Environment and Create a Test Case

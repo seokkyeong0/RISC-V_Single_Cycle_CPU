@@ -25,7 +25,7 @@ RISC-V Single Cycle CPU Core Design &amp; Simulation & Bubble Sort Execution
 
 ---
 
-### major motion process
+### Major motion process
 
 Implement basic operational flows of the CPU pipeline in a single cycle:
 
@@ -72,7 +72,7 @@ Implement basic operational flows of the CPU pipeline in a single cycle:
 
 ---
 
-### achievements
+### Achievements
 
 - RV32I Command Set Complete Operation Verification
 - Accumulate CPU operation flow (IF → ID → EX → MEM → WB) and hardware architecture design experience
